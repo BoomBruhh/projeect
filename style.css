@@ -1,0 +1,83 @@
+body{
+    background-image: url(op.jpg);
+    background-size: cover;
+}
+.font{
+    font-family:'Times New Roman', Times, serif;
+    position: relative;
+    z-index: 1;
+    background:#c7dcee;
+    opacity: 99%;
+    max-width: 280px;
+    margin: 270px auto 100px 550px;
+    padding: 10px 45px 30px 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2), 0 5px 5px rgba(0,0,0,0.24);
+     border-radius: 20px;
+}
+.boom{
+    padding: auto auto auto auto;
+}
+.font p{
+    font-size: 24px;
+    padding: 1px;
+    text-align: center;
+
+}
+.font input{
+    outline: 0;
+    border-radius: 10px;
+    background:#eaecee;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 15px;
+
+}
+
+.font input:hover{
+    background-color: #d6d7e6;
+    transition: all is ease 0s;
+}
+.font input:focus{
+    background-color: #d6d7e6;
+    transition:all is ease 0ss;
+}
+.font p1{
+    font-size: 15px;
+    padding: 10px;
+    margin: top 10px;;
+    text-align: center;
+}
+.font button{
+    margin: auto;
+    text-transform: uppercase;
+    border-radius: 12px;
+    background:#c0c5e7;
+    width: 100%;
+    border: 10px;
+    padding: 15px;
+    color: #321003;
+    font-size: 12px;
+    cursor: pointer;
+
+}
+.font button:hover, .font button:active,.font button:focus{
+    background-color: #94aceb;
+    transition: all is ease 0s;
+}
+.font p1{
+    margin: 15px 0 0 ;
+    color: #321003;
+    font-size: 15px;
+}
+.font p1{
+    color:#2f2828;
+     text-decoration: none;
+}
+.fnck{
+    text-align: center;
+    font-size: 50px;
+}
